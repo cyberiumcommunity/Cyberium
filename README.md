@@ -33,6 +33,9 @@ Here, you’ll find carefully selected articles, tutorials, tools, courses, and 
 
 If you want to support this community and contribute to making cybersecurity knowledge more accessible for Azerbaijani speakers, we warmly invite you to join us.
 
+# Bu repozitoriyada verilən biliklərin zərərli|qeyri-etik istifadəsinə görə məsuliyyət daşımıram.
+# I am not responsible for the malicious|unethical use of the knowledge provided on this repository.
+
 # 💬 Discord 
 🇦🇿: Discord kanalımıza qoşularaq biliklərinizi paylaşa, yeni məlumatlar əldə edə, öz fikirlərinizi paylaşa və digərləri ilə birlikdə inkişaf edə bilərsiniz.
 
